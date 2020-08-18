@@ -1,1 +1,1 @@
-# S-junsei
+# s-junsei
